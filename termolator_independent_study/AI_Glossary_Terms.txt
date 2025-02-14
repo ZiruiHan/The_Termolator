@@ -1,0 +1,452 @@
+A* search
+abductive logic programming (ALP)
+abductive reasoning
+ablation
+abstract data type
+abstraction
+accelerating change
+action language
+action model learning
+action selection
+activation function
+adaptive algorithm
+adaptive neuro fuzzy inference system (ANFIS)
+admissible heuristic
+agent architecture
+AI accelerator
+AI-complete
+algorithm
+algorithmic efficiency
+algorithmic probability
+AlphaGo
+ambient intelligence (AmI)
+analysis of algorithms
+analytics
+answer set programming (ASP)
+ant colony optimization (ACO)
+anytime algorithm
+application programming interface (API)
+approximate string matching
+approximation error
+argumentation framework
+artificial general intelligence (AGI)
+artificial immune system (AIS)
+artificial intelligence (AI)
+Artificial Intelligence Markup Language
+Association for the Advancement of Artificial Intelligence (AAAI)
+asymptotic computational complexity
+attention mechanism
+attributional calculus
+augmented reality (AR)
+autoencoder
+automata theory
+automated machine learning (AutoML)
+automated planning and scheduling
+automated reasoning
+autonomic computing (AC)
+autonomous car
+autonomous robot
+B
+backpropagation
+backpropagation through structure (BPTS)
+backpropagation through time (BPTT)
+backward chaining
+backward reasoning.
+bag-of-words model
+bag-of-words model in computer vision
+batch normalization
+Bayesian programming
+bees algorithm
+behavior informatics (BI)
+behavior tree (BT)
+belief–desire–intention software model (BDI)
+bias–variance tradeoff
+big data
+Big O notation
+binary tree
+blackboard system
+Boltzmann machine
+Boolean satisfiability problem
+boosting
+bootstrap aggregating
+brain technology
+branching factor
+brute-force search
+capsule neural network (CapsNet)
+case-based reasoning (CBR)
+chatbot
+cloud robotics
+cluster analysis
+clustering
+Cobweb
+cognitive architecture
+cognitive computing
+cognitive science
+combinatorial optimization
+committee machine
+commonsense knowledge
+commonsense reasoning
+computational chemistry
+computational creativity
+computation.psychology, philosophy, and the arts.
+computational cybernetics
+computational humor
+computational intelligence (CI)
+computational learning theory
+computational linguistics
+computational mathematics
+computational neuroscience
+computational number theory
+computational problem
+computational statistics
+computer-automated design (CAutoD)
+computer audition (CA)
+computer science
+computer vision
+concept drift
+connectionism
+consistent heuristic
+constrained conditional model (CCM)
+constraint logic programming
+constraint programming
+conlang.
+control theory
+convolutional neural network
+crossover
+Darkforest
+Dartmouth workshop
+data augmentation
+data fusion
+data integration
+data mining
+data science
+data set
+dataset
+data warehouse (DW or DWH)
+enterprise data warehouse (EDW).
+Datalog
+decision boundary
+decision support system (DSS)
+decision theory
+theory of choice.
+decision tree learning
+declarative programming
+deductive classifier
+Deep Blue
+deep learning
+DeepMind Technologies
+default logic
+description logic (DL)
+epigenetic robotics.
+diagnosis
+dialogue system
+conversational agent (CA).
+diffusion model
+Dijkstra's algorithm
+dimensionality reduction
+dimension reduction.
+distributed artificial intelligence (DAI)
+decentralized artificial intelligence.
+double descent
+dropout
+dilution.
+dynamic epistemic logic (DEL)
+eager learning
+early stopping
+Ebert test
+echo state network (ESN)
+embodied agent
+interface agent
+embodied cognitive science
+error-driven learning
+ensemble learning
+epoch
+ethics of artificial intelligence
+evolutionary algorithm (EA)
+evolutionary computation
+evolving classification function (ECF)
+Evolving classification functions are used for classifying and clustering in the field of machine 
+existential risk
+expert system
+fast-and-frugal trees
+feature
+feature extraction
+feature learning
+representation learning.
+feature selection
+federated learning
+first-order logic
+first-order predicate calculus 
+predicate logic
+fluent
+formal language
+forward chaining
+forward reasoning.
+frame
+frame language
+frame problem
+friendly artificial intelligence
+friendly AI 
+FAI
+futures studies
+fuzzy control system
+fuzzy logic
+fuzzy rule
+fuzzy set
+game theory
+general game playing (GGP)
+generalization
+generalization error
+generative adversarial network (GAN)
+generative artificial intelligence
+generative pretrained transformer (GPT)
+genetic algorithm (GA)
+genetic operator
+glowworm swarm optimization
+gradient boosting
+graph 
+graph (discrete mathematics)
+graph database (GDB)
+graph theory
+graph traversal
+graph search.
+hallucination
+heuristic
+hidden layer
+hyper-heuristic
+hyperparameter
+hyperparameter optimization
+hyperplane
+IEEE Computational Intelligence Society
+incremental learning
+inference engine
+information integration (II)
+Information Processing Language (IPL)
+intelligence amplification (IA)
+cognitive augmentation
+machine augmented intelligence
+enhanced intelligence
+intelligence explosion
+intelligent agent (IA)
+intelligent control
+intelligent personal assistant
+virtual assistant
+personal digital assistant
+interpretation
+intrinsic motivation
+intelligent agent 
+issue tree
+logic tree
+junction tree algorithm
+Clique Tree
+kernel method
+KL-ONE
+k-nearest neighbors
+knowledge acquisition
+knowledge-based system (KBS)
+knowledge distillation
+knowledge engineering (KE)
+knowledge extraction
+knowledge Interchange Format (KIF)
+knowledge representation and reasoning (KR² or KR&R)
+k-means clustering
+language model
+large language model (LLM)
+lazy learning
+Lisp (programming language) (LISP)
+logic programming
+long short-term memory (LSTM)
+machine vision (MV)
+Markov chain
+Markov decision process (MDP)
+mathematical optimization
+mathematical programming
+machine learning (ML)
+machine listening
+computer audition (CA)
+machine perception
+mechanism design
+mechatronics
+mechatronic engineering.
+metabolic network reconstruction and simulation
+metaheuristic
+model checking
+modus ponens
+modus tollens
+Monte Carlo tree search
+multi-agent system (MAS)
+self-organized system
+multilayer perceptron (MLP)
+multi-swarm optimization
+mutation
+Mycin
+naive Bayes classifier
+naive semantics
+name binding
+named-entity recognition (NER)
+entity identification
+entity chunking
+entity extraction
+named graph
+natural language generation (NLG)
+natural language processing (NLP)
+natural language programming
+network motif
+neural machine translation (NMT)
+neural network
+neural Turing machine (NTM)
+neuro-fuzzy
+neurocybernetics
+brain–computer interface (BCI)
+neural-control interface (NCI)
+mind-machine interface (MMI)
+direct neural interface (DNI)
+brain–machine interface (BMI)
+neuromorphic engineering
+neuromorphic computing.
+node
+nondeterministic algorithm
+nouvelle AI
+NP
+NP-completeness
+NP-hardness
+non-deterministic polynomial-time hardness.
+Occam's razor
+Ockham's razor
+Ocham's razor
+
+offline learning
+online machine learning
+ontology learning
+ontology extraction
+ontology generation
+ontology acquisition.
+OpenAI
+OpenCog
+Open Mind Common Sense
+open-source software (OSS)
+overfitting
+partial order reduction
+partially observable Markov decision process (POMDP)
+particle swarm optimization (PSO)
+pathing.
+pattern recognition
+perceptron
+predicate logic
+first-order logic
+predicate logic
+first-order predicate calculus
+predictive analytics
+principal component analysis (PCA)
+principle of rationality
+rationality principle
+probabilistic programming (PP)
+production system
+programming language
+Prolog
+propositional logic
+statement logic 
+sentential calculus
+sentential logic
+zeroth-order logic
+proximal policy optimization (PPO)
+Python
+PyTorch
+Q-learning
+qualification problem
+quantifier
+quantum computing
+query language
+R programming language
+radial basis function network
+random forest
+random decision forest.
+reasoning system
+recurrent neural network (RNN)
+regression analysis
+regularization
+reinforcement learning (RL)
+reinforcement learning from human feedback (RLHF)
+representation learning
+feature learning
+reservoir computing
+Resource Description Framework (RDF)
+restricted Boltzmann machine (RBM)
+Rete algorithm
+robotics
+rule-based system
+satisfiability
+search algorithm
+selection
+self-management
+semantic network
+frame network
+semantic reasoner
+reasoning engine
+rules engine,
+simply reasoner.
+semantic query
+semi-supervised learning
+weak supervision.
+sensor fusion
+separation logic
+similarity learning
+simulated annealing (SA)
+situated approach
+situation calculus
+Selective Linear Definite clause resolution
+simply SLD resolution.
+software
+software engineering
+spatial-temporal reasoning
+SPARQL
+sparse dictionary learning
+sparse coding 
+SDL
+speech recognition
+spiking neural network (SNN)
+State
+statistical classification
+state–action–reward–state–action (SARSA)
+statistical relational learning (SRL)
+stochastic optimization (SO)
+stochastic semantic analysis
+Stanford Research Institute Problem Solver (STRIPS)
+subject-matter expert (SME)
+superintelligence
+supervised learning
+support vector machines
+swarm intelligence (SI)
+symbolic artificial intelligence
+synthetic intelligence (SI)
+systems neuroscience
+technological singularity
+singularity.
+temporal difference learning
+tensor network theory
+TensorFlow
+theoretical computer science (TCS)
+theory of computation
+Thompson sampling
+time complexity
+transfer learning
+transformer
+transhumanism
+Abbreviated H+ 
+transition system
+tree traversal
+tree search
+true quantified Boolean formula
+Turing machine
+Turing test
+type system
+unsupervised learning
+vision processing unit (VPU)
+Value-alignment complete
+Watson
+weak AI
+narrow AI.
+weak supervision
+See semi-supervised learning.
+word embedding
+XGBoost

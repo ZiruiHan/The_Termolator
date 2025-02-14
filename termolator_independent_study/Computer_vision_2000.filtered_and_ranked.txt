@@ -1,0 +1,2006 @@
+stereopsis	1.0000
+acutance	1.0000
+spatial resolution	1.0000
+spherical product	1.0000
+photometric stereo	1.0000
+blob	1.0000
+image understanding	1.0000
+image matching	1.0000
+bidirectional reflectance distribution function	1.0000
+constructive solid geometry	1.0000
+ground truth	1.0000
+histogram equalization	1.0000
+perspective projection	1.0000
+image restoration	1.0000
+homomorphic filtering	1.0000
+euclidean distance	1.0000
+mathematical morphology	1.0000
+epipolar plane	1.0000
+algebraic reconstruction	1.0000
+image reconstruction	1.0000
+change detection	1.0000
+image compression	1.0000
+structured light	1.0000
+high-pass filter	0.9772
+connected-component analysis	0.9750
+laplacian operator	0.9723
+connected-component	0.9707
+ordinary histogram equalization	0.9705
+orientation histogram	orientation histograms	0.9659
+orthographic projection	orthographic projections	0.9657
+cartesian product	cartesian products	0.9648
+median filtering	0.9637
+median filter	median filters	0.9625
+spatial frequency	spatial frequencies	0.9607
+structuring element	structuring elements	0.9604
+epipolar line	epipolar lines	0.9585
+understanding image	understanding images	0.9561
+depth map	depth maps	0.9525
+triangulation	triangulations	0.9518
+chromaticity	chromaticities	0.9508
+picture element	picture elements	0.9504
+image histogram	image histograms	0.9468
+confusion matrix	confusion matrices	0.9463
+binary image	binary images	0.9407
+parallel projection	0.9385
+anti-homomorphic filtering	0.9329
+feature extraction technique	0.9299
+vanishing point	vanishing points	0.9298
+hough transform	ht	0.9248
+wiener filter	wiener filters	0.9202
+histogram equalization method	histogram equalization methods	0.9198
+range image	range images	0.9194
+photogrammetry	0.9137
+feature vector	feature vectors	0.9137
+digital image compression	0.9125
+international symposium on mathematical morphology	0.9116
+adaptive histogram equalization technique	0.9114
+conditional probability	conditional probabilities	0.9110
+voxel	voxels	0.9088
+limited adaptive histogram equalization	0.9086
+second-moment matrix	second-moment matrices	0.9081
+non-separable	0.9073
+classifier	classifiers	0.9071
+feature space	feature spaces	0.9045
+involving image processing	0.9012
+image intensity	image intensities	0.9005
+image intensity function	0.9002
+corresponding point	corresponding points	0.8992
+machine vision system	machine vision systems	0.8988
+limiting adaptive histogram equalization	0.8938
+histogram equalization mapping operation	0.8934
+gaussian pyramid	0.8930
+triangulation problem	0.8930
+machine vision	0.8888
+neural networks	0.8888
+adaptive histogram equalization	ahe	0.8809
+attentional mechanism	0.8805
+computer vision research	0.8784
+automatic image enhancement	0.8784
+chromatic color	chromatic colors	0.8780
+algebraic reconstruction technique	algebraic reconstruction techniques	0.8773
+laplacian pyramid	0.8772
+optical flow estimation	0.8750
+parallax	parallaxes	0.8704
+low-pass filter	low-pass filters	0.8679
+backlight	0.8670
+laplacian	laplacians	0.8666
+generalized hough transform	ght	0.8650
+image transformation	image transformations	0.8641
+two-dimensional median filter	0.8613
+congruency	0.8608
+image brightness	0.8607
+bi-directional reflectance distribution function	0.8603
+video picture	video pictures	0.8601
+automatic classification	0.8591
+principal vanishing point	0.8587
+triangulation method	triangulation methods	0.8582
+reflectance distribution function	reflectance distribution functions	0.8580
+octree level	0.8566
+digital image processing	0.8566
+brightness value	0.8566
+superquadric	superquadrics	0.8553
+image restoration technique	image restoration techniques	0.8545
+feature matching	0.8540
+stereopsi	stereopsis	0.8512
+scale space	scale spaces	0.8497
+image feature extraction	0.8496
+threshold selection	0.8495
+kernel-based hough transform	0.8482
+applied histogram equalization venetsanopoulo	venetsanopoulos applied histogram equalization	0.8478
+image processing operator	image processing operators	0.8472
+blob detection	0.8471
+histogram specification	0.8456
+greyscale intensity	0.8455
+scale-space theory	0.8453
+stereo triangulation	0.8446
+display resolution	0.8438
+feature extraction method	feature extraction methods	0.8432
+video compression	0.8417
+scale space analysis	0.8417
+two-dimensional median filter algorithm	0.8388
+neural network	neural networks	0.8385
+gaussian filter kernel	0.8378
+grayscale input image	0.8375
+skeletal	0.8369
+stereoscopic image pair	stereoscopic image pairs	0.8365
+contrast limited adaptive histogram equalization	0.8349
+scale space implementation	0.8339
+discrete time fourier transform	dtft	0.8339
+reference histogram	0.8326
+filtered back projection	fbp	0.8318
+quantization	0.8312
+bi directional reflectance distribution function	brdf	bidirectional reflectance distribution function	both light reflected from	0.8310
+neighborhood operation	neighborhood operations	0.8299
+image processing software	0.8285
+most computer vision	0.8276
+orientation information	0.8272
+inverse fourier	0.8271
+grayscale depth map	0.8260
+triangulation range	0.8259
+disparity value	disparity values	0.8256
+reflectance spectrum	0.8255
+scale-space framework	0.8240
+classical photometric stereo problem concern	classical photometric stereo problem concerns	0.8225
+computer vision system	computer vision systems	0.8213
+segmentation operation	0.8209
+sparse depth map	0.8195
+image processing algorithm	image processing algorithms	0.8193
+blob extraction	0.8193
+automatic inspection	0.8193
+illuminant	illuminants	0.8180
+digitization	0.8176
+non-convex	0.8154
+cumulative histogram	0.8153
+vision enhancement	0.8152
+complementary thresholding	0.8146
+depth estimation	0.8145
+image processing application	image processing applications	0.8136
+computer stereo vision	0.8130
+set registration	0.8114
+image scaling	0.8114
+run length encoding	rle	0.8104
+statistical iterative image reconstruction	0.8104
+matching feature	matching features	0.8102
+binary image sensor	0.8093
+contrast-to-noise ratio	0.8088
+interest point operator	interest point operators	0.8087
+unsharp masking	0.8081
+movement parallax	0.8081
+automatic inspection solution machine vision	machine vision automatic inspection solution	0.8074
+non-square	0.8051
+image processing operation	image processing operations	0.8029
+pixelsense	0.8019
+image classification	0.8016
+wiener filter solution	wiener filter solutions	0.8014
+morphological image processing	0.8012
+two-dimensional laplacian operator approximation	approximation of the two-dimensional laplacian operator	0.8003
+hand skeleton	0.7998
+digital image editing	0.7981
+pattern analysis	0.7964
+zero-crossing	zero-crossings	0.7944
+self-attention mechanism	0.7942
+digital image compression technology	0.7940
+triangulation scanner	0.7931
+digital photography	0.7928
+medical image processing	0.7924
+depth determination	0.7924
+geometric smoothing	0.7922
+optimal disparity	0.7920
+texture classification	0.7917
+spatial compression	0.7913
+image pre-processing	0.7903
+rectangular bounding box	0.7899
+gradient computation	0.7894
+multilayer perceptron	0.7892
+pixel group	0.7884
+blob detection algorithm	algorithm for blob detection	0.7878
+machine vision application	machine vision applications	0.7871
+image recognition	0.7871
+point-to-point correspondence	0.7865
+computer vision technology	computer vision technologies	0.7864
+epipolar geometry	0.7860
+image restoration conventional technique	conventional technique for image restoration	0.7857
+gradient location-orientation histogram	0.7856
+contrast enhancement	0.7842
+depth perception	0.7842
+image processing technique	image processing techniques	0.7836
+illumination change	illumination changes	0.7835
+inverse depth	0.7835
+component analysis	0.7832
+continuous laplacian	0.7828
+object reconstruction	0.7809
+disparity calculation	disparity calculations	0.7803
+edge enhancement	0.7802
+chromatic adaptation	0.7801
+positional tracking	0.7794
+pixel art	0.7774
+mathematical morphology continuous morphology	continuous morphology mathematical morphology	0.7770
+digital image intensity function	intensity function of a digital image	0.7766
+perspective transformation	perspective transformations	0.7763
+depth level	depth levels	0.7760
+circle hough transform	cht	0.7753
+edge detection	0.7752
+relative depth information	0.7748
+congruence	0.7743
+scale-space smoothing	0.7743
+stereoscopic photography	0.7736
+resolution image	resolution images	0.7728
+data compression	0.7722
+trichromatic color	0.7721
+pixel-art	0.7712
+convolution	0.7708
+original image transformation	transformation of the original image	0.7703
+fine stereopsi	fine stereopsis	0.7697
+pose estimation	0.7688
+classification algorithm	classification algorithms	0.7687
+homomorphic	0.7687
+digital image analysis	0.7682
+ct image reconstruction	0.7678
+digital image processing operator	digital image processing operators	0.7676
+stereographic projection	0.7676
+non-convexity	0.7674
+image processing community	0.7673
+edge map	edge maps	0.7670
+image processing system	image processing systems	0.7669
+projection image	projection images	0.7667
+pixel aspect	0.7658
+primal sketch scale-space	scale-space primal sketch	0.7654
+enhancement algorithm	0.7654
+image analysis	0.7640
+nearest neighbor	nearest neighbors	0.7637
+resolution representation	0.7625
+classification problem	classification problems	0.7624
+illumination variation	illumination variations	0.7623
+image projection	image projections	0.7621
+gaussian operator laplacian	laplacian of the gaussian operator	0.7616
+feature point	feature points	0.7612
+distance function	0.7607
+smoothing method	0.7594
+computing image correspondence	computing image correspondences	0.7594
+computer vision technique	computer vision techniques	0.7589
+three-dimensional depth	0.7585
+delaunay triangulation	delaunay triangulations	0.7584
+computer vision task	computer vision tasks	0.7581
+accuracy rate	accuracy rates	0.7580
+contrast balance	0.7578
+fourier transformation	0.7577
+step edge	step edges	0.7571
+shape analysis	0.7567
+general-purpose image processing software	0.7556
+top-5 accuracy	0.7555
+epipolar point	epipolar points	0.7551
+epipolar	0.7550
+computer vision algorithm	computer vision algorithms	0.7547
+geometric shape	geometric shapes	0.7537
+dynamic imaging	0.7534
+non-uniform illumination	0.7534
+scale space continuation	0.7531
+histogram intersection	0.7525
+structured-light scanner	structured-light scanners	0.7524
+pixel correspondence	0.7524
+generalized scale-space theory	0.7519
+pixel intensity	pixel intensities	0.7518
+vertical parallax	0.7518
+skeletonization	0.7507
+binary image reconstruction	reconstruction of a binary image	reconstruction of binary images	0.7503
+layer mask	0.7503
+reconstruction algorithm	reconstruction algorithms	0.7499
+depth estimate	depth estimates	0.7491
+image information	0.7490
+stereoscopic depth	0.7489
+including image compression application	applications including image compression	0.7482
+iterative reconstruction	0.7482
+euclidean space	euclidean spaces	0.7480
+line segment	line segments	0.7467
+establishing point-by-point correspondence	0.7466
+edge orientation	0.7463
+resolution detector	0.7462
+spatial frequency disparity	spatial frequency disparities	0.7460
+laplacian operato	0.7455
+laplace operator	0.7453
+unit square	0.7449
+ground resolution cell	ground resolution cells	0.7446
+gaussian smoothing	0.7446
+range finder	0.7441
+original grayscale image	original grayscale images	0.7440
+object classification	classification of objects	0.7440
+photometric transformation	photometric transformations	0.7439
+laplacian matrix	laplacian matrices	0.7435
+orientability	0.7433
+region detector	0.7423
+industrial machine vision	0.7423
+edge thinning	0.7418
+correspondence registration	0.7417
+computer vision problem	computer vision problems	0.7416
+classification accuracy	accuracy of the classification	0.7413
+depth-sensing	0.7410
+co-occurrence matrix	co-occurrence matrices	0.7410
+compression algorithm	compression algorithms	0.7405
+original scale-space theory	0.7405
+color processing	0.7403
+depth dimension	0.7403
+convolutional	0.7402
+stereoscopic photograph	stereoscopic photographs	0.7401
+edge preservation	0.7399
+edge optimization	0.7395
+stereovision	0.7391
+multi-scale second-moment matrix	multi-scale second-moment matrices	0.7389
+quadratic function	quadratic functions	0.7387
+spherical geometry	0.7386
+perspective control	0.7384
+blob descriptor	blob descriptors	0.7379
+multidimensional signal signal processing	signal processing of multidimensional signals	0.7376
+digital video	0.7376
+automatic inspection system	automatic inspection systems	0.7372
+grey-level blob detection	0.7370
+intensity histogram	0.7366
+optical engineering	0.7365
+classification method	classification methods	0.7363
+randomized hough transform	rht	0.7363
+horizontal disparity	horizontal disparities	0.7356
+3-d reconstructions	0.7355
+image analysis solution	0.7355
+match pattern	match patterns	0.7353
+euclidean geometry	0.7353
+computer-generated imagery	0.7350
+edge pixel	edge pixels	0.7344
+containing image processing functionality	functionalities containing image processing	0.7344
+most computer vision system	most computer vision systems	0.7343
+projection mapping	0.7339
+binocular disparity	binocular disparities	0.7332
+artificial depth perception	0.7332
+logical pixel	0.7326
+matching accuracy	0.7321
+digit recognition	0.7320
+called contrast adaptive histogram equalization	adaptive histogram equalization called contrast	0.7312
+contrast masking	0.7312
+pattern image	0.7307
+cie chromaticity diagram	0.7303
+projection plane	0.7302
+computer image analysis	0.7301
+nearest-neighbor	nearest-neighbors	0.7297
+regionsize	0.7291
+projective reconstruction	0.7286
+vehicle registration	0.7284
+color enhancement algorithm	0.7283
+discrete linear transform	0.7282
+structure-from-motion photogrammetry	0.7279
+image model	image models	0.7270
+edge detection k	0.7269
+microsoft pixelsense	0.7263
+lossless compression	0.7263
+grayscale color	grayscale colors	0.7262
+semantic segmentation	0.7261
+feature detection	0.7261
+neighborhood defining function	0.7258
+affine invariant texture analysis method	affine invariant texture analysis methods	0.7257
+digital projection	0.7256
+recognition algorithm	0.7255
+surrounding pixel	surrounding pixels	0.7255
+perspective distortion	perspective distortions	0.7252
+texture synthesis	0.7251
+stereoscopic vision	0.7250
+morphological application	morphological applications	0.7249
+raster-based image	0.7248
+digital image transformation	digital image transformations	transformation of a digital image	0.7242
+blob detector	blob detectors	0.7237
+artificial neural network	artificial neural networks	0.7232
+vectorization	0.7228
+image generation element	0.7227
+grey-level blob	grey-level blobs	0.7220
+image1	0.7219
+point correspondence	point correspondences	0.7217
+image search	0.7214
+image translation	0.7214
+parallax error	0.7206
+color level	0.7204
+sliding window adaptive histogram equalization	swahe	0.7200
+non-linear illumination	0.7199
+spatial attention	0.7195
+scale-space operation	scale-space operations	0.7194
+contrast limited ahe	clahe	contrast limited adaptive histogram equalization	0.7193
+gradient location orientation histogram	gloh	gradient location and orientation histogram	0.7192
+depth plane	depth planes	0.7187
+euclidean reconstruction	0.7185
+depth parametrization	0.7180
+involving image recognition classification	0.7175
+illumination condition	illumination conditions	0.7174
+grayscale value	grayscale values	0.7168
+gradient location and orientation histogram	gloh	gradient location orientation histogram	0.7165
+object recognition	0.7161
+binary morphology	0.7154
+vision research	0.7153
+intensity function	0.7153
+classification image	classification images	0.7147
+quantization step	0.7141
+intensity change	intensity changes	0.7140
+object detection	0.7139
+correspondence problem	correspondence problems	0.7131
+computer vision community	0.7131
+scale-space blob	scale-space blobs	0.7128
+matching technique	matching techniques	0.7125
+artificial depth	0.7125
+optical tracking	0.7118
+image acquisition	0.7114
+stereograph	stereographs	0.7112
+pixel resolution	pixel resolutions	0.7110
+fine-scale structure	fine-scale structures	0.7110
+computer vision researcher	computer vision researchers	0.7109
+photogrammetric range imaging technique	0.7103
+morphological operation	morphological operations	0.7103
+robotic program	0.7103
+ultrasound image segmentation	0.7100
+back-propagation	0.7094
+trichromatic color vision	0.7093
+intensity region	0.7087
+threshold map	threshold maps	0.7086
+pixel well	pixel wells	0.7084
+feature enhancement algorithm	0.7077
+dimensional measurement	0.7070
+radiometric resolution	0.7061
+illumination source	illumination sources	0.7057
+stereoacuity	0.7055
+gaussian function	gaussian functions	0.7042
+called shift-invariant pattern recognition	0.7039
+including stereopsi	including stereopsis	0.7025
+per-frame segmentation	0.7025
+morphological operator	morphological operators	0.7021
+wiener deconvolution	0.7019
+factory floor machine vision technology	0.7015
+wiener filter coefficient vector determination	determination of the wiener filter coefficient vector	0.7014
+medical image segmentation	segmentation of medical images	0.7014
+structural property	structural properties	0.7012
+nearest-neighbor field	0.7000
+scale-space maximum	0.7000
+stereomatic	0.6998
+voxel generalization	generalization of a voxel	generalization of voxel	0.6996
+computer vision application	applications of computer vision	computer vision applications	0.6995
+traditional stereoscopic photography	0.6994
+line correspondence	line correspondences	0.6992
+derivative operator	derivative operators	0.6983
+computer vision system construction	construction of computer vision systems	0.6983
+retinal illuminance	0.6980
+stereo video	0.6980
+hierarchical architecture	hierarchical architectures	0.6980
+vector representation	0.6979
+digital representation	0.6978
+feature representation	0.6977
+pixel-art graphics	0.6976
+identifying point	identifying points	0.6972
+automatic image	0.6962
+trichromatic theory	0.6951
+descriptor vector	0.6948
+spatio-temporal second-moment matrix defined b	0.6947
+maximum likelihood estimation	0.6947
+point detection	0.6947
+histogram of oriented gradients	0.6940
+camera projection matrix	0.6940
+computer vision annotation	0.6940
+multiview projection	multiview projections	0.6936
+lossy compression technique	0.6934
+image moment	image moments	0.6928
+image generation	0.6924
+contrast amplification	0.6921
+military training	0.6921
+optical motion capture	0.6920
+laser triangulation scanner	laser triangulation scanners	0.6918
+intrinsic geometry	0.6918
+affine-adapted multi-scale second-moment matrix	0.6918
+multi-orientation band-pass filter bank	0.6916
+scale-space extrema	0.6911
+scale-space interest	0.6908
+resolution camera	resolution cameras	0.6902
+spatio-temporal	0.6900
+descriptor	descriptors	0.6899
+projection ray	projection rays	0.6898
+multi-scale blob detector	multi-scale blob detectors	0.6895
+stereoscopic information	0.6894
+depth of field	0.6892
+computer vision researcher takeo kanade	0.6891
+discrete laplace operator	0.6888
+mathematical pattern-recognition technique	mathematical pattern-recognition techniques	0.6885
+planar region hough-transform voting strategy	hough-transform voting strategy for planar regions	0.6883
+shape distance	0.6880
+classification head	0.6876
+gradient domain	0.6871
+category recognition	0.6871
+ground truth bounding box	ground truth bounding boxes	0.6870
+sampled pixel	0.6870
+gaussian operator	0.6870
+digital image processing method	digital image processing methods	0.6864
+matching constraint	0.6863
+national database registration authority	0.6862
+scale space representation	scale space representations	0.6860
+color discrimination	color discriminations	0.6860
+medical training	0.6860
+threshold value	threshold values	0.6858
+color histogram	color histograms	0.6857
+optimal threshold matrix	0.6857
+continuous gaussian	0.6857
+morphological gradient	morphological gradients	0.6856
+edge detector	edge detectors	0.6856
+projection system	projection systems	0.6855
+surface geometry	0.6844
+boundary point	boundary points	0.6840
+pixel clock	0.6839
+morphological skeleton	morphological skeletons	0.6833
+video file	video files	0.6830
+low-light enhancement	0.6830
+image rectification	0.6827
+combined structural	0.6826
+image retrieval	0.6823
+one-dimensional signal	one-dimensional signals	0.6823
+optical information	0.6819
+satellite projection	0.6819
+depth-sensing technology	depth-sensing technologies	0.6818
+color histogram comparison	color histogram comparisons	0.6818
+correspondence-based registration	0.6818
+feature detection step	0.6817
+over-segmentation	0.6815
+distance product	0.6815
+self-attention	0.6815
+graphical projection	graphical projections	0.6815
+continuous laplace operator	0.6815
+gaussian distribution	gaussian distributions	0.6814
+correlation study	0.6814
+lucy deconvolution iterative restoration method	0.6813
+video compression standard	0.6813
+connected-component labeling	0.6811
+original training	0.6810
+appearance-based model	appearance-based models	0.6805
+edge effect	edge effects	0.6800
+video content	video contents	0.6799
+manual image	0.6798
+depth-sensing camera	depth-sensing cameras	0.6797
+pixelsense technology	0.6796
+cloud registration	0.6796
+inverse depth parametrization	0.6793
+spectral shape	0.6792
+boundary condition	boundary conditions	0.6792
+spectral resolution	0.6791
+distance measurement	distance measurements	0.6790
+horizontal axis	0.6787
+quantization noise	0.6784
+statistical shape analysis	0.6782
+image geometry correction transformation	0.6781
+image formation	0.6778
+example autostereogram grayscale depth map	grayscale depth map for the example autostereogram	0.6777
+video surveillance	0.6776
+intensity difference	intensity differences	0.6775
+singular vector	0.6772
+shape space	0.6768
+vision sensor	vision sensors	0.6768
+language processing	0.6767
+digital image processing technique	digital image processing techniques	0.6760
+algorithm gaussian	gaussians algorithm	0.6757
+grayscale structuring element	grayscale structuring elements	0.6749
+structuring element grayscale	grayscale structuring elements	grayscale structuring element	0.6747
+triangulation range finder	triangulation range finders	0.6745
+image encoder	0.6743
+spatio-temporal gaussian blob	0.6742
+classification token	0.6741
+binocular depth perception	0.6740
+higher-resolution image	higher-resolution images	0.6737
+spectral shape analysis	0.6736
+intrinsic dimensionality	0.6733
+computational photography	0.6732
+stereoscopic picture	stereoscopic pictures	0.6730
+distance information	0.6728
+transformation algorithm	0.6726
+gradient image	gradient images	0.6723
+digital imaging application	digital imaging applications	0.6720
+called texture mapping	0.6718
+microscopy application image processing	image processing for microscopy application	0.6717
+reverse perspective	0.6715
+object edge	object edges	0.6714
+scale-space representation	scale-space representations	0.6710
+digital image processing operator maximization	maximization of digital image processing operators	0.6708
+gabor feature extraction	0.6708
+peripheral vision	0.6705
+spectral shape descriptor	spectral shape descriptors	0.6704
+lossy compression	0.6703
+image correlation	0.6702
+body pose estimation	0.6701
+projection surface	projection surfaces	0.6697
+stereogram	stereograms	0.6697
+skeletal animation	0.6695
+view engineering	0.6695
+attentional selection	0.6692
+photomacrography	0.6692
+image geometry correction transformatio	0.6689
+depth sensor	depth sensors	0.6688
+parallax compensation	0.6682
+spatio-temporal reconstruction	0.6681
+maximum likelihood expectation maximization	0.6679
+reflection spectrum	0.6678
+cie xy chromaticity diagram	0.6674
+video search	0.6673
+enhanced depth-of-field	0.6672
+decision making	0.6671
+temporal attention	0.6670
+image region	image regions	0.6668
+orthogonal projection	orthogonal projections	0.6663
+spatial neighborhood	0.6659
+digital imaging system	digital imaging systems	0.6658
+convolution operation	convolution operations	0.6656
+stereoscopic image	stereoscopic images	0.6655
+detail subband coefficient thresholding	thresholding of detail subband coefficients	0.6651
+intrinsic definition	intrinsic definitions	0.6650
+fast fourier transform	fft	0.6650
+shape characteristic	shape characteristics	0.6647
+super-resolution imaging	0.6643
+character recognition	0.6642
+background depth plane	0.6641
+graph laplacian	graph laplacians	0.6640
+commercial image processing application	commercial image processing applications	0.6637
+pixel model	pixel models	0.6633
+relative distance	relative distances	0.6630
+affine image transformation	affine image transformations	0.6629
+pixels per inch	0.6627
+binary pattern	binary patterns	0.6624
+automatic image threshold selection algorithm	algorithm for automatic image threshold selection	0.6623
+spatio-temporal video data	0.6623
+image sharpening	0.6619
+sampled gaussian kernel	0.6617
+stereotest	stereotests	0.6615
+scale-space concept	scale-space concepts	0.6614
+commercial machine vision system manufacturer	manufacturers of commercial machine vision systems	0.6614
+rotational symmetry	0.6610
+parallel-move	parallel-moves	0.6609
+gradient approximation	approximation of the gradient	0.6604
+image structure	image structures	0.6602
+image processing algorithms development	image processing algorithms developments	0.6599
+laplace operator discretization	discretization of the laplace operator	discretizations of the laplace operator	0.6598
+image gradient	image gradients	0.6596
+correspondence set	0.6596
+analytical shape	analytical shapes	0.6595
+image intensifier	0.6591
+consumer displays range spatial resolution	spatial resolution of consumer displays ranges	0.6588
+differential blob detector	differential blob detectors	0.6585
+temporal smoothing	0.6585
+moment invariant	moment invariants	0.6584
+photogrammetric reconstruction providing key data	providing key data for photogrammetric reconstruction	0.6584
+multiheaded attention	0.6582
+semidefinite relaxation	0.6578
+newimage	0.6576
+statistical shape model	statistical shape models	0.6576
+laplace-beltrami operator	0.6575
+feature generation	0.6575
+intensity landscape	0.6575
+volumetric video	0.6574
+gaussian scale-space	0.6574
+computer vision literature	computer vision literatures	0.6571
+training method	training methods	0.6571
+stereoscopic motion	0.6567
+gaussian-blurred	0.6566
+image understanding systems	ius	0.6565
+gaussian blurring	0.6565
+sequence parameter	0.6561
+normal stereoscopic vision	0.6560
+contextual classification	0.6555
+eye tracking	0.6549
+image recognition system	image recognition systems	0.6548
+dimensional measurement system	dimensional measurement systems	0.6548
+feature detection model	0.6545
+range camera	range cameras	0.6545
+multi-scale second-moment matrix measurement	measurements of the multi-scale second-moment matrices	0.6544
+image similarity	image similarities	0.6544
+image deformation	0.6541
+gradient magnitude	gradient magnitudes	0.6540
+facial recognition	0.6540
+dimetric projection	dimetric projections	0.6534
+word recognition	0.6533
+polynomial texture	0.6533
+iterative reconstruction technique	iterative reconstruction techniques	0.6528
+gaussian-blurred image	gaussian-blurred images	0.6527
+object category	object categories	0.6525
+image space	0.6525
+autostereogram image	0.6521
+depth slice	0.6521
+lens focal length	focal length of the lens	0.6518
+image stabilization	0.6517
+three-dimensional input delaunay triangulation	delaunay triangulations of three-dimensional inputs	0.6516
+non-enhancement	0.6515
+dynamic texture	dynamic textures	0.6515
+hexagonal discrete fourier transform	hdft	0.6514
+bayesian formulation	0.6514
+temporal resolution	0.6513
+distinctive feature	distinctive features	0.6512
+morphological skeletonization	0.6507
+image filter	image filters	0.6507
+digital projection system	0.6504
+stereoscopic video	0.6502
+depth information superpixel representation	superpixel representation of depth information	0.6502
+grayscale channel	0.6500
+probabilistic model	0.6499
+quantization error	quantization errors	0.6498
+biological vision	0.6498
+normalized image	0.6497
+point detector	0.6497
+specular reflection	specular reflections	0.6495
+speech recognition	0.6495
+convolutional neural net	0.6494
+intrinsic property	intrinsic properties	0.6494
+higher-dimensional space voxel generalization	generalization of voxel for higher-dimensional spaces	0.6493
+registration algorithm	registration algorithms	0.6493
+depth cue	depth cues	0.6492
+multispectral image	multispectral images	0.6491
+computer-generated image	computer-generated images	0.6490
+oversampled binary image	0.6490
+graduated non-convexity	0.6489
+polynomial smoothing approach least-square	least-squares polynomial smoothing approach	0.6489
+tracking technique	tracking techniques	0.6489
+decision-making process	0.6486
+original pixel	original pixels	0.6486
+image registration	0.6483
+image processing computer vision algorithm	computer vision algorithms for image processing	0.6481
+color vision	0.6478
+digital image technology high-resolution	high-resolution digital image technology	0.6477
+binocular stereo vision	0.6473
+epiphan	0.6472
+vector flow	0.6471
+spatial photography	0.6471
+decision tree algorithm	0.6470
+rectangular area	rectangular areas	0.6467
+intrinsic dimension estimation	0.6466
+geometric structure	geometric structures	0.6465
+gradient direction	gradient directions	0.6462
+statistical shape	0.6460
+feature maps	0.6456
+shape adaptation	0.6454
+harris-laplace operator	harris-laplace operators	0.6453
+personal stereo camera	0.6451
+poisson reconstruction	0.6451
+binocular stereo vision method	0.6450
+stereoscopic viewing	0.6449
+digital media	0.6448
+reconstruction mathematical description	mathematical description of reconstruction	0.6447
+artificial vision device	artificial vision devices	0.6447
+similarity transformation	0.6446
+radiosity	0.6444
+stereoscopy	0.6444
+image formation process	0.6438
+color perception	color perceptions	0.6438
+digital rendering process	0.6435
+reverse image search system	0.6434
+symbolic information	0.6431
+photographic picture	photographic pictures	0.6430
+corner pixel	corner pixels	0.6430
+projection line	projection lines	0.6423
+laplacian operator scale selection property	scale selection properties of the laplacian operator	0.6423
+projection center	projection centers	0.6423
+individual pixel	individual pixels	0.6421
+neural model	neural models	0.6421
+calibration pattern	calibration patterns	0.6418
+edge strength	0.6415
+inside-outside segmentation	0.6414
+haar feature	haar features	0.6413
+color difference	color differences	0.6412
+stereoscopy technique	stereoscopy techniques	0.6410
+three-dimensional euclidean space	0.6409
+image intensity function gradient approximation	approximation of the gradient of the image intensity function	0.6408
+stereoscopic effect	stereoscopic effects	0.6407
+non-linear scale-space	non-linear scale-spaces	0.6407
+image processing research community gravitated	0.6406
+digital 3-d	0.6399
+planar straight-line graph delaunay triangulation	delaunay triangulations of planar straight-line graphs	0.6394
+laplacian matrix eigenvalue decomposition	eigenvalue decomposition of laplacian matrices	0.6392
+computer vision technological discipline	technological discipline of computer vision	0.6390
+multiparametric image feature defined set	defined sets of multiparametric image features	0.6388
+gradient orientation	gradient orientations	0.6388
+action recognition	0.6386
+face recognition	0.6386
+example scaling data equalization formula	equalization formula for the example scaling data	0.6378
+kernel signature	0.6369
+image fusion	0.6367
+perimeter security	0.6366
+velocity moment	velocity moments	0.6364
+selective aspect	0.6364
+gaussian scale space representation	0.6361
+gaussian scale space	0.6360
+luminance histogram	luminance histograms	0.6360
+isometric projection	0.6359
+focus recovery	0.6358
+pixel value	pixel values	0.6357
+cartesian moment	cartesian moments	0.6355
+affine shape	0.6354
+optical character recognition	0.6354
+frequency detail	frequency details	0.6352
+high-resolution image	high-resolution images	0.6352
+interactive mri segmentation	0.6350
+nonuniform lighting	0.6349
+digital signal processing	0.6346
+randomized decision rule	randomized decision rules	0.6346
+face-vertex mesh	face-vertex meshes	0.6345
+pixel shift	0.6345
+image database retrieval	0.6336
+multi-focus	0.6335
+medical image analysis	0.6334
+spectral information	0.6334
+grayscale morphology	0.6330
+computational imaging	0.6329
+red-blue chromaticity two-dimensional histogram	two-dimensional histogram of red-blue chromaticity	0.6328
+vector image	vector images	0.6328
+photomicrography	0.6327
+image editing software	0.6320
+feature detection method	feature detection methods	0.6310
+introduced non-metric multidimensional scaling	0.6306
+image processing decorrelation technique	image processing decorrelation techniques	0.6306
+digital image processing algorithm classical-like	classical-like digital image processing algorithms	0.6304
+continuous gaussian kernel	0.6303
+gaussian curvature	gaussian curvatures	0.6300
+multi-scale structure tensor	0.6299
+signal intensity	signal intensities	0.6298
+histogram calculation computational complexity	computational complexity of histogram calculation	0.6297
+object tracking computer vision application	computer vision applications for object tracking	0.6295
+affine-adapted interest point operator	affine-adapted interest point operators	0.6294
+differential edge detector	0.6292
+three-dimensional voxel raster graphics	0.6288
+parallax rangefinder	0.6287
+likelihood estimation	0.6287
+based image retrieval	0.6286
+difference of gaussians	0.6277
+feature descriptor	feature descriptors	0.6275
+circularly symmetric	0.6269
+principal curvature-based region detector	0.6268
+edge gradient	edge gradients	0.6267
+canonical hue	canonical hues	0.6267
+stereoscopic image processing technique	0.6266
+three-lens	0.6260
+object co-segmentation	0.6260
+two-dimensional image	two-dimensional images	0.6259
+machine vision primary use	primary uses for machine vision	0.6259
+handwritten text recognition	0.6258
+multi-scale signal representation	0.6258
+multi-directional backlight	0.6257
+geographical projection	geographical projections	0.6257
+called image rectification	0.6257
+visual recognition challenge	0.6256
+edge-detection algorithm	edge-detection algorithms	0.6255
+compression standard	0.6247
+music video	0.6245
+euler characteristic	0.6243
+directional derivative second-order zero-crossing	zero-crossings of the second-order directional derivative	0.6242
+resolution color image processing study	0.6240
+scale-invariant feature transform	0.6239
+digital light processing	0.6238
+nonlinear filter	nonlinear filters	0.6236
+projection-slice theorem	0.6235
+reference point	reference points	0.6234
+ground resolution cell geographic coordinate	geographic coordinates of the ground resolution cell	0.6231
+training set	training sets	0.6229
+extract information	0.6225
+user interaction	0.6223
+photographic view	photographic views	0.6220
+additional structure	0.6220
+backpropagation	0.6220
+vertical direction	vertical directions	0.6219
+hough parameter space	hough parameter spaces	0.6219
+mean filter	0.6217
+euclidean transformation	euclidean transformations	0.6217
+landmark detection	0.6217
+stereoscopic camera	stereoscopic cameras	0.6215
+gesture recognition	0.6215
+similarity relation	similarity relations	0.6211
+color depth	color depths	0.6210
+two-dimensional color histogram	two-dimensional color histograms	0.6209
+parallax barrier technology	parallax barrier technologies	0.6207
+distribution functions	0.6206
+expectation maximization	0.6206
+video content analysis	0.6204
+horizontal resolution	horizontal resolutions	0.6203
+point method	0.6203
+triangle congruence	0.6202
+stereoscopic aerial reconnaissance photograph	stereoscopic aerial reconnaissance photographs	0.6200
+reverse image search	0.6196
+automated optical inspection	aoi	0.6192
+level analysis	0.6192
+grey-level blob tree	grey-level blob trees	0.6191
+optimal surface segmentation	optimal surface segmentations	0.6191
+moving object detection	0.6190
+imagedata	0.6190
+articulated body pose estimation	0.6189
+reflective mirror	reflective mirrors	0.6188
+object-based image analysis	0.6187
+manhattan distance	0.6181
+scale selection property	scale selection properties	0.6181
+affine invariant interest point operator	affine invariant interest point operators	0.6178
+three-dimensional signal	three-dimensional signals	0.6178
+objective vision	0.6178
+viewing distance	0.6177
+range compression	0.6177
+contour stereotest	contour stereotests	0.6175
+perceptual color opponency	0.6173
+perceptual salience	0.6172
+parallelizing connected-component algorithm	parallelizing connected-component algorithms	0.6171
+photoanalysi	photoanalysis	0.6167
+convolution algorithm	convolution algorithms	0.6167
+forward neural network	fnn	0.6166
+connectednes	connectedness	0.6164
+perceptual information	0.6163
+haar feature classifier	haar feature classifiers	0.6162
+infimal convolution	0.6162
+viewpoint change	viewpoint changes	0.6160
+viewpoint television	0.6159
+epipolar constraint	0.6158
+pointwise convolution	0.6157
+measurement problem	measurement problems	0.6154
+winged-edge	0.6154
+edge detection algorithm	edge detection algorithms	0.6153
+self-learning	0.6153
+convolution interpolation	0.6153
+spatial structure	spatial structures	0.6151
+point set	point sets	0.6150
+content-based image retrieval	0.6150
+homogeneous image	0.6149
+second-order differential invarian zero-crossing	zero-crossings of the second-order differential invarian	0.6149
+sobel operator	0.6148
+differential invariant zero-crossing curve	zero-crossing curves of the differential invariant	0.6145
+size scale	size scales	0.6144
+image sensor	image sensors	0.6144
+squares solution	0.6142
+continuous intensity function	0.6141
+decision map	decision maps	0.6137
+3-d modeling	0.6135
+action segmentation	0.6133
+scale space representation gradient magnitude	gradient magnitude of the scale space representation	0.6132
+interference-contrast image	interference-contrast images	0.6131
+spatial oversampling	0.6127
+reverse convolution	0.6124
+after-image	0.6123
+scale-space axiom	scale-space axioms	0.6123
+digital color camera	digital color cameras	0.6112
+neumann boundary condition	0.6112
+training example	training examples	0.6110
+computer vision subdiscipline	subdisciplines of computer vision	subdiscipline of computer vision	0.6110
+l1-distance	0.6106
+statistical moment	statistical moments	0.6106
+enhancement information	0.6105
+indicator function gradient	gradient of the indicator function	0.6104
+shape descriptor	shape descriptors	0.6104
+horizontal section	horizontal sections	0.6102
+human-computer interaction	0.6102
+image descriptor	image descriptors	0.6102
+pattern recognition image constancy phenomenon	image constancy phenomena of pattern recognition	0.6101
+output pixel	output pixels	0.6100
+one-dimensional gaussian kernel	0.6097
+edge detection method	edge detection methods	0.6094
+virtual training	0.6092
+horizontal direction	0.6091
+synset	synsets	0.6091
+medical image interpretation	interpretation of medical images	0.6090
+autonomous driving system	0.6090
+image change	image changes	0.6089
+scale selection	0.6087
+digital format	0.6087
+component intensity	component intensities	0.6086
+conditional density	0.6086
+pixel shader	pixel shaders	0.6084
+connected layer	connected layers	0.6078
+color constancy	0.6071
+canny edge	canny edges	0.6069
+training dataset	0.6067
+computer-generated random specular pattern	computer-generated random specular patterns	0.6066
+intrinsic dimension	intrinsic dimensions	0.6064
+circular convolution	0.6064
+binary gradient	0.6062
+scale-space kernel	scale-space kernels	0.6061
+greyscale intensity conditional distribution	conditional distribution of the greyscale intensity	0.6061
+prototypical first-person vision system	0.6061
+computational geometry	0.6060
+depthwise convolution	0.6059
+face analysis	0.6058
+internal camera parameter	internal camera parameters	0.6057
+coarse stereopsi	coarse stereopsis	0.6057
+quantized measurement	0.6055
+image dissimilarity measure	0.6055
+polar region	polar regions	0.6054
+parallax barrier	parallax barriers	0.6053
+focus stacking	0.6050
+image analysis application	image analysis applications	0.6050
+computer-aided detection	0.6048
+markerless tracking	0.6046
+point set registration	0.6044
+satellite image geographical projection	geographical projection of a satellite image	0.6043
+stereoscopic motion picture	stereoscopic motion pictures	0.6043
+cartesian velocity moment	cartesian velocity moments	0.6041
+edge detection technique	edge detection techniques	0.6040
+detecting scale-space extrema	0.6035
+medical image	medical images	0.6035
+binocular vision	0.6033
+minimum resolvable contrast	mrc	0.6032
+interest point	interest points	0.6030
+scale-space ridge	scale-space ridges	0.6028
+image color transfer	0.6028
+target recognition	0.6027
+three-dimensional scene	0.6026
+called image registration	0.6026
+affine region detector state-of-the-art	state-of-the-art affine region detectors	0.6024
+one-to-one correspondence	0.6023
+trimetric projection	0.6023
+optical sensor	optical sensors	0.6022
+three-dimensional image	three-dimensional images	0.6022
+top-k	0.6022
+lume pad	0.6021
+shape adaptation algorithm	0.6016
+point set registration algorithm	0.6016
+closure operator	0.6014
+residual quantization error	0.6013
+subjective color experience	0.6012
+error diffusion	0.6012
+image width	0.6012
+resolution-independent vector representation	0.6011
+screening mammography	0.6011
+automatic scale selection	0.6009
+pre-processing	0.6005
+intensifier	0.6004
+spatial information	0.6003
+optical mark recognition	0.6001
+canny edge detector	0.6001
+region normalization	0.6000
+background pixel	background pixels	0.5996
+difference image	difference images	0.5995
+video fingerprinting	0.5993
+video system	video systems	0.5992
+digital geometry	0.5991
+internal motion histogram	internal motion histograms	imh	0.5990
+level-set method	0.5990
+example image	example images	0.5989
+energy of laplacian	eol	0.5985
+motion coherence	0.5982
+line algorithm	0.5982
+de-skewed image	de-skewed images	0.5980
+skeletonization algorithm	skeletonization algorithms	0.5980
+intra-class	0.5979
+spatio-temporal interest point	spatio-temporal interest points	0.5979
+color quantization	0.5978
+cabinet projection	0.5977
+digital display	digital displays	0.5977
+gauss-sift	0.5977
+image similarity measure	image similarity measures	0.5976
+fourier shift theorem	0.5974
+scale-space extrema detection	0.5972
+tonal distribution graphical representation	graphical representation of the tonal distribution	0.5970
+digital image correlation	dic	0.5969
+robotic navigation	0.5964
+integral photography	0.5964
+spatio-temporal scale level	0.5963
+space representation	0.5961
+vessel segmentation	0.5961
+computer interaction	computer interactions	0.5960
+haar-like feature	haar-like features	0.5959
+facegen	0.5958
+non-rigid shape	non-rigid shapes	0.5956
+image plane fourier	0.5954
+raster image	raster images	0.5954
+video surveillance system	video surveillance systems	0.5953
+gaussian derivative operator	gaussian derivative operators	0.5952
+photo-identification	0.5950
+including image recognition	0.5944
+structural color	structural colors	0.5941
+autonomous camera approach	0.5940
+digital stereoscopic projection technology	0.5939
+gradient magnitude image	0.5933
+ordinary motion picture screen	0.5933
+image distance measure	image distance measures	0.5931
+feature preservation	0.5931
+single camera multi	0.5928
+nal unit	nal units	0.5925
+3-d model	3-d models	0.5925
+fourier-transform method	fourier-transform methods	0.5924
+segment test detector	0.5923
+dynamic range expansion	0.5923
+gradient-field extractor	0.5922
+geometric modeling	0.5922
+adaptive probabilistic elastic matching	0.5920
+stereographic card	stereographic cards	0.5917
+optical holography	0.5916
+anti-facial recognition mask	anti-facial recognition masks	0.5916
+image representation	image representations	0.5914
+stereoscopic cue	stereoscopic cues	0.5908
+gradient reversal	0.5907
+morphological opening	0.5902
+elementary feature	elementary features	0.5901
+image domain	0.5901
+naive bayes classifier suggested application	suggested application of naive bayes classifier	0.5898
+texture mapping units	0.5898
+reverse image	0.5895
+phase congruency	0.5894
+search space	0.5893
+face image	face images	0.5892
+optical granulometry	0.5890
+manual image registration	0.5889
+intrinsic differential geometry	0.5888
+signal processing domain	0.5887
+spatio-temporal scale-space	spatio-temporal scale-spaces	0.5885
+temporal action localization	0.5885
+feature film	feature films	0.5884
+lenna image	0.5882
+distraction detection	0.5881
+stereophonic sound	0.5879
+stereoscopic feature	stereoscopic features	0.5879
+video representation	representation of the video	video representations	0.5878
+denoising algorithm	0.5877
+axonometric projection	axonometric projections	0.5876
+dimensional image	dimensional images	0.5875
+color moment	color moments	0.5874
+gaussian weighting function	0.5873
+feature demon	feature demons	0.5872
+image classification technology	image classification technologies	0.5871
+electromagnetic radiation	0.5869
+chroma color	chroma colors	0.5869
+guidance image	0.5869
+scale invariant	scale invariants	0.5868
+optimal color	optimal colors	0.5866
+reverse correlation	0.5866
+geometric moment	geometric moments	0.5866
+feature map	feature maps	0.5866
+affine region detector	affine region detectors	0.5861
+public area	public areas	0.5860
+scale-invariant object recognition	0.5860
+thin plate spline robust point matching	0.5857
+scale level	scale levels	0.5856
+scale-space representation gradient magnitude	gradient magnitude of the scale-space representation	0.5853
+question space	0.5853
+conspicuous structure	conspicuous structures	0.5852
+scale invariance	0.5850
+magic motion	0.5850
+local intrinsic dimensionality	0.5848
+optical property	optical properties	0.5847
+one-point perspective	0.5847
+circular image threshold selection algorithm	circular image threshold selection algorithms	0.5847
+binary dilation	0.5847
+polynomial texture mapping	0.5845
+error level analysis	0.5844
+fixed-pattern noise	0.5844
+international conference on computer vision	iccv	0.5843
+mental image	mental images	0.5842
+recognition challenge	0.5841
+extrema detection	0.5841
+geometric deformable model	geometric deformable models	0.5840
+color balance	0.5840
+image geometry correction	0.5839
+principal component	principal components	0.5837
+personal stereo camera view-master	view-master personal stereo camera	0.5835
+temporal signal	temporal signals	0.5835
+box-cylinder	0.5830
+geometric analysis	0.5828
+multi-focus image	multi-focus images	0.5826
+gaussian function laplacian	laplacian of the gaussian function	0.5826
+digital display technology	digital display technologies	0.5826
+color reproduction	0.5825
+one-dimensional kernel	one-dimensional kernels	0.5825
+multidimensional pulse image processing	0.5823
+fill factor	0.5820
+denoising diffusion probabilistic model	0.5820
+training set population	0.5818
+inverse consistency error	0.5815
+non-photorealistic rendering	0.5814
+background image	0.5814
+coded picture	coded pictures	0.5809
+map coordinate system	0.5807
+boundary vector field	bvf	0.5807
+nearest-neighbor interpolation	0.5803
+inlier correspondence	inlier correspondences	0.5801
+optimality property	optimality properties	0.5801
+octant	octants	0.5801
+sparse asymptotic minimum variance algorithm	0.5800
+dimetric	0.5800
+convolution equation	0.5799
+voxel heightmap software-rendering engine	voxel heightmap software-rendering engines	0.5798
+photographic camera	0.5796
+viewing filter	viewing filters	0.5796
+detection k	0.5795
+isotropically band-limited two-dimensional signal	isotropically band-limited two-dimensional signals	0.5795
+hard light	0.5795
+species identification	0.5794
+binary robust independent elementary features	0.5792
+discrete skeleton evolution	dse	0.5792
+raking light	0.5791
+cond	0.5789
+feature image	feature images	0.5788
+a-connection	0.5786
+integral image	integral images	0.5785
+affine gaussian scale-space	0.5781
+binary sensor	binary sensors	0.5780
+edge-directed interpolation	0.5779
+decorrelation	0.5778
+spatial distribution	0.5777
+photogrammetric non-contact passive method	photogrammetric non-contact passive methods	0.5775
+set registration algorithm	0.5774
+blind deconvolution	0.5774
+reflection antisymmetric	0.5771
+stereoscopic image-processing technology	stereoscopic image-processing technologies	0.5770
+image coordinate	image coordinates	0.5767
+neighborhood homeomorphic	0.5767
+satellite imagery	0.5767
+apparent optical property	aop	0.5767
+video surveillance camera	video surveillance cameras	0.5766
+affine invariant interest point detector	0.5765
+multi-modality registration	0.5765
+example autostereogram	0.5763
+spatial extent	spatial extents	0.5762
+image plane	image planes	0.5762
+displacement measurement	0.5762
+sub-pixel accuracy	0.5761
+gradient vector flow	gvf	0.5760
+stereoscopic photography military application	military applications of stereoscopic photography	0.5758
+spectral color	spectral colors	0.5758
+convolution operator	convolution operators	0.5757
+gain register	0.5757
+difference-of-gaussians interest	0.5754
+vertical edge	vertical edges	0.5754
+dot stereogram	dot stereograms	0.5753
+target point	0.5752
+scanning photomacrography	0.5749
+pre-processing method	pre-processing methods	0.5748
+equivalence relation	0.5745
+biometric identification	0.5745
+affine-adapted differential blob detector	affine-adapted differential blob detectors	0.5743
+test time	0.5742
+convolution layer	convolution layers	0.5742
+sub-feature	sub-features	0.5741
+distribution function	0.5740
+interest point detection	0.5739
+non-crossing line segment	non-crossing line segments	0.5738
+periodic convolution	0.5735
+facial image	facial images	0.5735
+enhanced subpixel morphological antialiasing	0.5730
+color transfer	0.5729
+image collection	image collections	0.5728
+reference implementation	reference implementations	0.5728
+differencing	0.5726
+geometric construction	geometric constructions	0.5726
+depthwise separable convolution incorporation	incorporation of depthwise separable convolutions	0.5725
+photoshop	0.5725
+coding extension compression multiview video	compression multiview video coding extension	0.5724
+regularizing image anisotropic diffusion	0.5723
+t-pose	t-poses	0.5722
+image constancy phenomenon	image constancy phenomena	0.5722
+euler operator	euler operators	0.5721
+optical center	optical centers	0.5721
+point cloud registration	0.5718
+matrox	0.5717
+image structure complementary description	complementary description of image structures	0.5715
+cardiac mri iterative image reconstruction	iterative image reconstruction for cardiac mri	0.5714
+vision-based coordinate-measuring machine	vision-based coordinate-measuring machines	0.5711
+dot stereotest	dot stereotests	0.5711
+robust point matching	rpm	0.5706
+derivative kernel	derivative kernels	0.5705
+spatial action segmentation	0.5705
+pixel art scaling algorithm	pixel art scaling algorithms	0.5703
+face detection	0.5700
+functional autostereoscopic image	0.5700
+un-color-balanced image	0.5699
+object surface normal information solving depth	solving depth of normal information of the object surface	0.5699
+compression ratio	compression ratios	0.5698
+frequency distribution	frequency distributions	0.5698
+intel realsense depth	0.5694
+facial recognition system	facial recognition systems	0.5693
+color scanner	0.5692
+non-linear differential expression zero-crossing	zero-crossings of a non-linear differential expression	0.5689
+geometric camera calibration	0.5689
+image detector pixel-to-pixel sensitivity	0.5689
+fiducial point	fiducial points	0.5686
+digital space	0.5685
+fingerprint recognition	0.5685
+signal level	signal levels	0.5682
+color balancing	0.5681
+interactive modeling	0.5680
+egocentric vision	0.5679
+image noise	0.5679
+wiggle stereoscopy	0.5679
+image search engine	image search engines	0.5676
+contextual image classification	0.5675
+horizontal periscope-like	0.5675
+multi-scale representation	0.5675
+computer generated imagery	cgi	0.5673
+scale-space interest point	scale-space interest points	0.5673
+feature detection algorithm	algorithms for feature detection	feature detection algorithms	0.5673
+geometric inpainting	0.5672
+collision detection	0.5672
+image measurement	image measurements	0.5670
+electronic image data communication	communications of electronic image data	0.5667
+shape context	shape contexts	0.5666
+sketch recognition	0.5664
+anaglyphic contrast balance	0.5661
+mapping function	0.5661
+binocular vision stereopsi	stereopsis for binocular vision	0.5658
+optical sorting technology	0.5655
+scale-invariant feature	0.5655
+color management	0.5655
+transformation function	transformation functions	0.5654
+interference pattern image	0.5653
+diffraction grating	0.5651
+preselected color channel grayscale value	grayscale value of the preselected color channel	0.5648
+mosaicing	0.5648
+cylindrical projection	0.5645
+spatial verification	0.5644
+descriptor normalization	0.5643
+conventional image pixel full-well capacity	full-well capacity of conventional image pixel	0.5643
+invariant rg-chromaticity space illumination	illumination invariant rg-chromaticity space	0.5640
+digital cinema	0.5639
+rotation-invariant interest point detector	0.5638
+pre-processing technique	pre-processing techniques	0.5637
+medical image registration	0.5635
+3-d modeler	3-d modelers	0.5634
+machine intelligence	0.5631
+connectivity pattern	0.5631
+match matrix	0.5629
+horizontal edge	horizontal edges	0.5628
+automatic background generation algorithm	0.5627
+orientable surface	orientable surfaces	0.5627
+conventional principal component analysis	0.5624
+difference-of-gaussian scale-space function	0.5624
+two-dimensional hexagonally sampled signal	0.5624
+optical microscope	0.5623
+subtractive coloring	0.5619
+horizontal line	horizontal lines	0.5619
+structure tensor multi-scale formulation	multi-scale formulation of the structure tensor	0.5617
+normalized camera matrix	0.5615
+pixel width	width of a pixel	0.5614
+sketch based image retrieval	sbir	0.5614
+bubblegram	0.5613
+multi-modality registration method	multi-modality registration methods	0.5610
+compression artifact	compression artifacts	0.5610
+signal processing chain	0.5609
+correlation process	0.5608
+geometric feature	geometric features	0.5608
+raster graphics	0.5607
+peripheral cone opponent	0.5604
+inertial tracking	0.5604
+straight-line fringe pattern	0.5603
+gaussian blur	gaussian blurs	0.5603
+optical character	0.5603
+hyperplane distribution	0.5603
+image quality assessment	image quality assessments	0.5603
+picture parameter set	picture parameter sets	0.5600
+video editing product	video editing products	0.5598
+multiview auto-stereoscopy optical principle	optical principles of multiview auto-stereoscopy	0.5598
+digital cadastral map	0.5598
+optical sorting	0.5598
+rotation algorithm	0.5597
+regular gaussian scale space gaussian kernel	gaussian kernel for a regular gaussian scale space	0.5596
+dynamic range compression	0.5594
+face track	0.5593
+anaglyph image	anaglyph images	0.5591
+computational anatomy	0.5590
+gaze direction	0.5587
+image derivative	image derivatives	0.5587
+new edge-directed interpolation	0.5585
+temporal duration	0.5585
+off-road navigation	0.5584
+extrema	0.5583
+three-dimensional structure	three-dimensional structures	0.5583
+number-plate recognition	0.5583
+relating image representation algorithmic problem	algorithmic problems of relating image representations	0.5582
+non-euclidean geometry	non-euclidean geometries	0.5580
+three-dimensional scene two-dimensional image	two-dimensional image of a three-dimensional scene	0.5580
+pointwise product	0.5580
+unit stream	0.5579
+registration plate	registration plates	0.5578
+translation-and-rotation-invariant measurements	0.5577
+comprehensive color normalization	0.5577
+suspicious structure	suspicious structures	0.5576
+application area	application areas	0.5574
+picture plane	0.5573
+computer-generated imaging software tool	0.5573
+stereoscopic method	stereoscopic methods	0.5572
+inertial measurement units	0.5571
+adaptive noise reduction image processing	image processing for adaptive noise reduction	0.5570
+color blindness	0.5568
+rotation-invariant object cross-section	rotation-invariant object cross-sections	0.5566
+positive image	0.5564
+harris corner detector	0.5563
+log-likelihood function	0.5562
+perimeter security application	perimeter security applications	0.5562
+rapid semiautomatic segmentation object	rapid semiautomatic segmentation objects	0.5561
+keypoint	keypoints	0.5561
+discriminative descriptor	0.5560
+holographic reconstruction	0.5559
+kernel support vector machine decision tree	0.5559
+luminance scale	0.5552
+input block	input blocks	0.5549
+expectation maximization algorithm	0.5546
+taxicab distance	0.5545
+directional data formal scale space representation	formal scale space representation of the directional data	0.5543
+line pair	line pairs	0.5543
+two-dimensional function	two-dimensional functions	0.5542
+color model	color models	0.5542
+image retrieval application	image retrieval applications	0.5541
+color experience	color experiences	0.5540
+spatial transformation	spatial transformations	0.5540
+error matrix	error matrices	0.5538
+radar video	0.5538
+resolution curvelet	resolution curvelets	0.5537
+general information descriptor	general information descriptors	0.5530
+conventional optical microscope configuration	0.5530
+output block	output blocks	0.5530
+thz radiation	thz radiations	0.5529
+perceptual assessment	perceptual assessments	0.5529
+voice recognition	0.5528
+trichromatic camera	trichromatic cameras	0.5528
+image partitioning stage	0.5528
+converting image sensor data most algorithm	most algorithms for converting image sensor data	0.5527
+total object-camera position estimation	0.5526
+interference pattern	0.5524
+digital image-focused professional society	digital image-focused professional societies	0.5523
+difference-of-gaussians approximation	0.5521
+individual smoothing template convolution	convolution of individual smoothing templates	0.5520
+mathematical color model	0.5519
+lighting condition	lighting conditions	0.5517
+stereoscopic system	stereoscopic systems	0.5516
+medical imaging	0.5516
+scale-space interest point detector	scale-space interest point detectors	0.5515
+inspection service gk	gks inspection services	0.5515
+iterative curvature-based interpolation	0.5515
+bilateral filter	bilateral filters	0.5514
+derivative filter	derivative filters	0.5513
+digital model	digital models	0.5513
+intersection point	intersection points	0.5512
+nonuniform lighting condition	nonuniform lighting conditions	0.5512
+conventional photography	0.5512
+visual concept	visual concepts	0.5511
+interactivity	0.5511
+detector algorithm	0.5510
+hexagonally sampled image	hexagonally sampled images	0.5509
+directional data	0.5508
+image fragment	image fragments	0.5507
+orientation-selective cell	orientation-selective cells	0.5507
+spatio-temporal scale	spatio-temporal scales	0.5507
+color correction	0.5505
+image similarity measure common example	common examples of image similarity measures	0.5503
+image derivative computation	computation of image derivatives	0.5503
+photoanalysis system	photoanalysis systems	0.5503
+k-means	0.5502
+intrinsic parameter	intrinsic parameters	0.5502
+military projection	0.5502
+aerial reconnaissance image interpretation	0.5502
+higher-dimensional space	higher-dimensional spaces	0.5501
+non-square pixel	non-square pixels	0.5500
+microscope image	microscope images	0.5500
+recognizing object	recognizing objects	0.5499
+recognition task	recognition tasks	0.5498
+internal structure	internal structures	0.5496
+output signal	output signals	0.5494
+adaptive gradient-field extractor	0.5492
+projection score	projection scores	0.5488
+optimal transformation	0.5487
+ray casting	0.5486
+level set function	0.5486
+facial recognition camera	facial recognition cameras	0.5485
+cib projection	0.5484
+feature extraction discrete wavelet transform	dwt for feature extraction	0.5483
+psychophysical percept	psychophysical percepts	0.5482
+oversampled binary image sensor	oversampled binary image sensors	0.5481
+interference filter	0.5480
+exposure difference	exposure differences	0.5480
+imagenet project	0.5478
+restricted free viewpoint television view	restricted free viewpoint television views	0.5478
+freespace	0.5478
+magnetic tracking	0.5477
+difference-of-gaussian	difference-of-gaussians	0.5476
+gradient descent equation	gradient descent equations	0.5476
+medical image object segmentation connected layer	connected layer for medical image object segmentation	0.5476
+feature space resided signal to noise ratio	snr of the feature space resided	0.5476
+target map	target maps	0.5476
+registration pipeline	registration pipelines	0.5474
+interpolating pixel	interpolating pixels	0.5474
+color filter	color filters	0.5474
+target image	target images	0.5473
+level-set function	0.5473
+binocular rivalry	0.5473
+deconvolution	0.5471
+jpeg standard	0.5470
+isotropic gaussian distribution zero-mean	zero-mean isotropic gaussian distribution	0.5470
+camera resectioning	0.5469
+physical color	physical colors	0.5468
+matrix representation	0.5468
+recurrent neural network	recurrent neural networks	0.5466
+kinect technology	0.5462
+dirichlet boundary condition	dirichlet boundary conditions	0.5459
+original pixel value	original pixel values	0.5458
+wavelet transformation	0.5458
+image retrieval system	image retrieval systems	0.5458
+weight vector	weight vectors	0.5458
+navigation system	navigation systems	0.5457
+corner position	0.5457
+symmetric function	0.5456
+modulation transfer function	mtf	0.5455
+improved wave kernel signature	iwks	0.5455
+deep integrated neural network	dinn	0.5454
+scale parameter	scale parameters	0.5454
+space-variant filter	space-variant filters	0.5453
+fourier-slice theorem	0.5453
+sorting the correspondence space	scs	0.5450
+image information computing abstraction	computing abstractions of image information	0.5449
+point set registration algorithm output	output of a point set registration algorithm	0.5447
+neuron	neurons	0.5443
+high-resolution camera	high-resolution cameras	0.5442
+rgb	0.5438
+graph cut optimization	0.5437
+artificial intelligence-based machine learning	0.5437
+in some individuals who lack fine stereopsi	in some individuals who lack fine stereopsis	0.5437
+optical character recognition computer program	0.5436
+phase-stretch	0.5435
+differential structure	0.5432
+autonomous camera	autonomous cameras	0.5431
+humanoid robotic program	0.5431
+deformable model	deformable models	0.5430
+generalized gradient vector flow	ggvf	0.5428
+single-color region	single-color regions	0.5428
+background generation algorithm	0.5428
+temporal differencing	0.5427
+pictorial production	pictorial productions	0.5426
+color normalization	0.5425
+digital holographic	0.5424
+multiview video	mvv	0.5423
+projective plane	0.5423
+log-likelihood	log-likelihoods	0.5421
+binomial kernel	binomial kernels	0.5421
+increasing scale	increasing scales	0.5421
+algebraic geometry	0.5420
+eye tracker	eye trackers	0.5420
+structuring function	structuring functions	0.5420
+alternating stripe pattern method project	method projects alternating stripe patterns	0.5419
+camera matrix	0.5418
+radiation exposure	0.5418
+graduated non convexity	gnc	0.5417
+automatic background generation	0.5416
+background generation	0.5415
+extremal region	extremal regions	0.5415
+recognition rate	recognition rates	0.5415
+geographic object-based image analysis	0.5414
+matching cost shape context symmetric sum	symmetric sum of shape context matching costs	0.5413
+raster-based image editor	raster-based image editors	0.5412
+linearly polarized filter	lpf	0.5411
+view-master stereo color	0.5411
+normalized image coordinate	normalized image coordinates	0.5410
+base image	base images	0.5410
+learning algorithm	learning algorithms	0.5410
+harris corner detector algorithm	0.5409
+eye fixation	eye fixations	0.5408
+imagenet	0.5407
+monocular cue	monocular cues	0.5407
+digital post-processing	0.5405
+imaging software suite	0.5405
+5dx	0.5404
+epigraph	epigraphs	0.5404
+harris operator	0.5403
+graphical representation	0.5403
+computational geometry fundamental problem	fundamental problems of computational geometry	0.5403
+large-scale visual recognition challenge	0.5401
+kinect hardware	0.5400
+differential invarian zero-crossing curve	zero-crossing curves of the differential invarian	0.5400
+segment test	0.5399
+random-dot stereotest	random-dot stereotests	0.5398
+digital camera image sensor	image sensor of a digital camera	digital camera image sensors	0.5396
+euclidean space subset	subset of a euclidean space	subsets of euclidean space	0.5396
+translation operator	translation operators	0.5395
+orientation-selective convolution kernel	0.5394
+content based image retrieval	cbir	0.5393
+corneal reflection	corneal reflections	cr	0.5392
+measurement error	measurement errors	0.5392
+eye-tracker	eye-trackers	0.5391
+normal color vision	0.5390
+new edge directed interpolation	nedi	0.5389
+color effect	color effects	0.5385
+edge map gradient	edge map gradients	gradient of the edge map	0.5385
+traffic-sign recognition	0.5384
+color difference function	0.5382
+affine shape adaptation	0.5382
+regularizing image anisotropic diffusion algorithm	regularizing image anisotropic diffusion algorithms	0.5381
+pixel residual quantization error	residual quantization error of a pixel	0.5379
+intrinsic dimensionality estimation method	intrinsic dimensionality estimation methods	0.5374
+convolution multi-dimensional formulation	multi-dimensional formulation of convolution	0.5372
+object relative position	relative position of an objects	relative positions of objects	0.5372
+pixel transition	pixel transitions	0.5370
+full-field displacement	0.5368
+involving image processing granulometry	granulometry involving image processing	0.5367
+frequency domain	0.5364
+vision transformer	vision transformers	vit	0.5363
+freeviewing	0.5363
+natural language processing	nlp	0.5363
+video fingerprint	video fingerprints	0.5361
+autonomous driving	0.5361
+one-dimensional signal scale-space theory	scale-space theory for one-dimensional signals	0.5359
+affine detector algorithm	0.5358
+geometric mean filter	0.5358
+keypoint descriptor	0.5358
+digital stereo vision scientific application	scientific applications for digital stereo vision	0.5356
+anaglyphic image	anaglyphic images	0.5355
+saliency estimation	0.5352
+foreground pixel	foreground pixels	0.5352
+regular grid sample pattern	0.5351
+multispectral data spectral information	spectral information of the multispectral data	0.5350
+three-dimensional representation	0.5349
+downwelling irradiance attenuation coefficient	attenuation coefficient of downwelling irradiance	0.5348
+signall	0.5347
+h sequence	0.5346
+electronic camera	0.5346
+gabor space	0.5345
+superellipsoid frame	0.5345
+interaction matrix	0.5343
+gaussian scale-space theory generalization	generalization of the gaussian scale-space theory	0.5341
+normalization transformation	normalization transformations	0.5341
+time-stretch system	0.5341
+phase-stretch transform	0.5341
+integral imaging	0.5339
+multi-scale corner detector	0.5337
+image perturbation	image perturbations	0.5337
+convolutional layer	convolutional layers	0.5336
+composition product	composition products	0.5333
+flow network	flow networks	0.5332
+interest point detector	0.5331
+optical character recognition algorithm	optical character recognition algorithms	0.5331
+discrete cosine transform	dct	0.5328
+down-right direction	0.5327
+corner detection	0.5326
+rotation matrix	0.5326
+acoustic tracking	0.5326
+primary coded picture	primary coded pictures	0.5323
+audio-visual descriptor	audio-visual descriptors	0.5323
+reference wave	0.5323
+saliency detector	0.5321
+medical practitioner procedural training	procedural training for medical practitioners	0.5320
+random-dot stereogram	random-dot stereograms	0.5320
+stereoscopic cross-eyed viewing technique	0.5318
+registration popular image similarity measure	popular image similarity measures for registration	0.5318
+fashion landmark detection	0.5317
+access unit	access units	0.5317
+imaging archive	0.5316
+neural abstraction pyramid	0.5316
+reference image	reference images	0.5315
+directional information	0.5314
+corner detector algorithm	0.5314
+holographic image	0.5310
+inpainting	0.5308
+multi-focus image fusion	0.5307
+statistical characteristic	statistical characteristics	0.5307
+real-time gesture recognition	0.5305
+multispectral data	0.5305
+affine detector	0.5305
+multimodal learning	0.5304
+candidate keypoint	0.5301
+recursive filter	recursive filters	0.5301
+optical character recognition software	0.5299
+matching application	matching applications	0.5298
+including stereopsi quality binocular vision	quality binocular vision including stereopsis	0.5297
+temporal scale	temporal scales	0.5295
+wave kernel signature	wks	0.5293
+complementary color	complementary colors	0.5292
+appearance information	0.5290
+articulated hand tracking	0.5289
+three-dimensional stereoscopic display format	0.5289
+tensorflow	0.5287
+iterative expectation-maximization algorithm	iterative expectation-maximization algorithms	0.5287
+computer software	0.5286
+animated film computer generated imagery	cgi animated film	0.5284
+auto-calibration	0.5283
+digital signal	digital signals	0.5282
+image collection exploration	0.5282
+variation denoising	0.5281
+aspect ratio	aspect ratios	0.5278
+orthogonal straight line	orthogonal straight lines	0.5277
+inertial motion capture	0.5277
+document image	document images	0.5276
+image retrieval task	image retrieval tasks	0.5276
+nimslo three-dimensional photographic system	0.5276
+individual transformation	individual transformations	0.5276
+hexagonally sampled image digital image processing	digital image processing of hexagonally sampled images	0.5275
+spatial position	spatial positions	0.5274
+per-frame segmentation mask	per-frame segmentation masks	0.5274
+depthwise convolution output	outputs of the depthwise convolution	0.5272
+feature detection conventional edge detector	conventional edge detectors for feature detection	0.5270
+active-pixel sensor	0.5270
+sift-rank descriptor	sift-rank descriptors	0.5269
+automatic image annotation	0.5267
+spatio-temporal interest point detection	0.5267
+display aspect ratio	0.5265
+hierarchical image recognition architecture	hierarchical image recognition architectures	0.5265
+ymax	0.5265
+gaussian interest point	gaussian interest points	0.5264
+level curve curvature	0.5263
+affine region detector quantitative analysis	quantitative analysis of affine region detectors	0.5263
+eye-tracking research	0.5262
+one-dimensional probability distribution	one-dimensional probability distributions	0.5261
+spatial consistency	0.5261
+stereoscopic display	stereoscopic displays	0.5260
+certifiably robust registration algorithm	0.5257
+recursive filter first-order	first-order recursive filters	0.5257
+binary dilation operator grayscale dilation	0.5256
+automatic registration plate recognition	0.5256
+tensor calculus	0.5254
+temporal domain	0.5253
+non-spectral color	non-spectral colors	0.5253
+harris corner detection algorithm	0.5250
+correspondence score	0.5250
+neuron reconstruction	0.5249
+image retrieval computer vision technique	image retrieval computer vision techniques	0.5249
+stereoscopic vision efficient implementation	efficient implementation of stereoscopic vision	0.5249
+antimatroid	0.5249
+unit under test minimum resolvable contrast	mrc of the uut	0.5248
+rescaling	rescalings	0.5248
+neural-network-based handwriting recognition	0.5247
+subjective image quality assessment	subjective image quality assessments	0.5246
+manual image editing microsoft lumia phone	microsoft lumia phones manual image editing	0.5244
+real-world point set registration problem	real-world point set registration problems	0.5244
+three-dimensional map	three-dimensional maps	0.5243
+spectral purity	0.5242
+2-d computer	0.5240
+signal processing electronics	0.5240
+color palate	0.5240
+first-person perspective	0.5239
+component tree	0.5238
+error-diffusion method	error-diffusion methods	0.5237
+foveated rendering	0.5236
+image processing company selling hardware	0.5234
+gabor filter	gabor filters	0.5234
+tiny image	tiny images	0.5228
+angle estimation	0.5227
+kuwahara filter	kuwahara filters	0.5226
+normal vector	normal vectors	0.5226
+spatio-temporal scale-space extrema	0.5223
+spatio-temporal action localization	0.5221
+non-linear scale-space concept formulation	formulation of non-linear scale-space concepts	0.5220
+practical interest	0.5220
+scale-invariant feature operator	0.5219
+photoanalysis technology	photoanalysis technologies	0.5219
+purchased synthetic vision system view engineering	view engineering purchased synthetic vision systems	0.5219
+binary interaction	binary interactions	0.5219
+cascade architecture	0.5219
+ratio image uniformity	0.5219
+eye position	0.5216
+parallax barrier system	parallax barrier systems	0.5215
+panoramic photograph	panoramic photographs	0.5215
+tracking technology	tracking technologies	0.5213
+semi-automatic building extraction	0.5213
+reflection hologram	reflection holograms	0.5211
+kinect sensor	0.5210
+digital revolution	0.5210
+depthwise separable convolution	depthwise separable convolutions	0.5209
+unmanned aerial vehicles classification	classification of uav	0.5209
+superpixel	superpixels	0.5205
+passive method	passive methods	0.5205
+normalized gaussian derivative operator	normalized gaussian derivative operators	0.5204
+receptive field size	0.5203
+slit width	0.5203
+achieving color normalization algorithm	algorithms for achieving color normalization	0.5202
+non-rigid registration	0.5202
+gvf vector	gvf vectors	0.5201
+binary question	binary questions	0.5200
+nonlinear transformation	nonlinear transformations	0.5199
+level set method	lsm	0.5198
+correlation coefficient	0.5197
+corner measure	0.5195
+epiphan video	0.5193
+color descriptor	color descriptors	0.5193
+vr training	0.5193
+social interaction	social interactions	0.5192
+separation system	0.5190
+reference color space	0.5188
+computational imaging technique	computational imaging techniques	0.5187
+imaging technique	imaging techniques	0.5187
+extremum	0.5186
+non-uniform lighting condition	non-uniform lighting conditions	0.5185
+identification system	identification systems	0.5183
+noise reduction	0.5181
+detecting spatio-temporal scale-space extrema	0.5180
+dynamic mesh	dynamic meshes	0.5179
+configuration space	0.5179
+text-to-image generation	0.5178
+vocal pattern	vocal patterns	0.5177
+speed camera	speed cameras	0.5177
+y1	0.5176
+field-sequenced ntsc format	0.5175
+probability density functions	0.5173
+camera auto-calibration	0.5171
+dynamic random-dot stereogram	dynamic random-dot stereograms	0.5170
+fingerprinting system video	video fingerprinting systems	0.5170
+size distribution	0.5170
+human-likeness photorealistic rendition	photorealistic renditions of human-likenesses	0.5168
+uv	0.5166
+dot autostereogram	dot autostereograms	0.5166
+gesture interface	gesture interfaces	0.5165
+horizontal image resolution allowing downsampling	allowing downsampling of the horizontal image resolution	0.5164
+fashion product 28x28 grayscale image	28x28 grayscale images of fashion products	0.5163
+eight-point algorithm	0.5161
+top-hat	0.5160
+superellipsoid	superellipsoids	0.5160
+signal representation	signal representations	0.5160
+non-absolute	0.5154
+kernel-phase	kernel-phases	0.5153
+multi-model fitting	0.5152
+principal component analysis generalization	generalization of principal component analysis	0.5151
+rgb color model	0.5150
+intel realsense depth camera	intel realsense depth cameras	0.5147
+volume rendering	0.5146
+horizontal position	horizontal positions	0.5145
+order feature	order features	0.5144
+facial recognition technology	facial recognition technologies	0.5143
+detection algorithm	detection algorithms	0.5143
+polaroid filter	polaroid filters	0.5142
+in contrast to classic camera calibration	0.5141
+interactive feature	interactive features	0.5140
+geometric transformation	geometric transformations	0.5140
+computer animation	0.5139
+labelme	0.5138
+normal distributions transform	0.5136
+neural network shift-invariant	shift-invariant neural network	0.5135
+microscope optical path	optical path of the microscope	0.5133
+resel	resels	0.5132
+stochastic pooling	0.5132
+visual servoing	0.5131
+start code prefix pattern	start code prefix patterns	0.5129
+coordinate-measuring machines	0.5128
+terahertz image resolution representation	resolution representation of the terahertz image	0.5128
+european conference on computer vision	eccv	0.5127
+character recognition other major algorithm	other major algorithms for character recognition	0.5126
+viola-jones classifier	viola-jones classifiers	0.5124
+saliency detection	0.5123
+laser emitter	0.5123
+algebraic error	0.5122
+image registration result	image registration results	0.5122
+checkerboard pattern	0.5121
+digital video editing solution matrox video market	matrox video markets digital video editing solutions	0.5121
+gaussian derivative	derivative of a gaussian	gaussian derivatives	0.5120
+optical mouse	0.5119
+technical aspect	technical aspects	0.5119
+digital system	digital systems	0.5118
+consistency error	0.5116
+camera calibration	0.5116
+scale covariance	0.5116
+topological	0.5114
+full-parallax angle view	0.5112
+inpainting technique	inpainting techniques	0.5110
+iterative sparse asymptotic minimum variance	0.5110
+negative log-likelihood function	0.5109
+autostereogram	autostereograms	0.5109
+x1	0.5109
+gaussian laplacian	laplacian of gaussian	laplacian of the gaussian	laplacian of gaussians	log	0.5107
+kernel correlation	kc	0.5106
+principal component analysis	pca	principal components analysis	0.5103
+digital image file vectograph printing service	vectograph printing service for digital image files	0.5103
+timex	0.5101
+particle image velocimetry measurement technique	0.5101
+contrastive language-image pre-training	0.5099
+ip camera	ip cameras	0.5096
+convolutional network	convolutional networks	0.5094
+computer vision annotation tool	cvat	0.5094
+computer-aided diagnosis	0.5093
+correspondence score s	0.5091
+polyhedron	0.5091
+memory color effect	0.5090
+essential geometric feature computation	computation of essential geometric features	0.5090
+3-d graphics	0.5089
+curvilinear structure	curvilinear structures	0.5089
+relative structure transmission coefficient	transmission coefficients of the relative structures	0.5089
+homogeneous image coordinate	homogeneous image coordinates	0.5083
+non-repeating	0.5083
+adobe rgb	0.5083
+background plane	0.5083
+x0	0.5082
+high-resolution display parallax barrier system	parallax barrier system for a high-resolution display	0.5082
+servoing	0.5081
+image generation for internet authentication	0.5081
+focal center	0.5081
+probability distribution	probability distributions	0.5081
+scale selection property theoretical analysis	theoretical analysis of the scale selection properties	0.5080
+multisampling computer graphics technique	0.5080
+dirac delta function	0.5079
+time delay neural network	tdnn	0.5079
+geometric error	0.5078
+non-rigid shape retrieval wave kernel signature	wks for non-rigid shape retrieval	0.5078
+gaussian pre-smoothing kernel scale parameter	scale parameter of the gaussian pre-smoothing kernel	0.5077
+step detection	0.5077
+image fusion method	image fusion methods	0.5076
+angular distribution	0.5076
+medical imaging equipment	0.5075
+touch point	0.5074
+interference filter technology	0.5073
+raster	rasters	0.5073
+scale factor	scale factors	0.5072
+activity recognition	0.5072
+pixel value distribution	distribution of pixel values	distribution of the pixel values	0.5072
+affine invariant saliency detector	0.5072
+vision processor d4	0.5071
+optical character reader	0.5071
+adaptive optics image plane wavefront sensing	image plane wavefront sensing for adaptive optics	0.5069
+analytics	0.5069
+multi-scale harris operator	0.5069
+point distribution	0.5069
+hsl	0.5068
+digital cinema camera	digital cinema cameras	0.5068
+digital scanning producing high-quality	producing high-quality digital scanning	0.5067
+involving image processing application domain	application domains involving image processing	0.5066
+floating-point operation	floating-point operations	0.5065
+pedestrian detection	0.5064
+ground plan	ground plans	0.5064
+modern mesh-based shape deformation method	modern mesh-based shape deformation methods	0.5064
+realsense depth camera d435	0.5062
+digital imaging application rectangular grid	rectangular grid for digital imaging applications	0.5062
+multiple view stereoscope	multiple view stereoscopes	0.5062
+numerical analysis	0.5060
+polarized light	0.5058
+geometric topology	0.5056
+moving object	moving objects	0.5056
+classical mechanics	0.5056
+continuous scale parameter	0.5055
+monocular	0.5055
+space implementation	0.5054
+one-dimensional error diffusion	0.5053
+world-coordinate ax	world-coordinate axes	0.5053
+phycv low-light enhancement	0.5052
+digital imax	0.5051
+anchor map	0.5051
+megapixel	megapixels	mp	0.5051
+red-and-cyan anaglyph stereoscopic image	red-and-cyan anaglyph stereoscopic images	0.5051
+video analytic	video analytics	va	0.5050
+projected gradient descent	0.5049
+tetrahedron	0.5048
+eyetracking study visualization technique	visualization technique for eyetracking studies	0.5048
+signal processor	signal processors	0.5047
+medical image transmission	transmission of medical images	0.5046
+measuring eye	0.5046
+measuring eye movement	0.5043
+multi-layering	0.5043
+video coding layer	vcl	0.5042
+linear transformation	linear transformations	0.5042
+error rate	error rates	0.5041
+vector field convolution	vfc	0.5041
+information measure	0.5040
+hyperbolic manifold canonical triangulation	canonical triangulations of hyperbolic manifolds	0.5040
+ridge descriptor	ridge descriptors	0.5039
+five-point algorithm	0.5038
+one-dimensional probability	0.5037
+preexisting material	0.5036
+volume ray casting	0.5035
+gradient vector flow fundamental application	fundamental application of gvf	0.5035
+segmentation non-contrast-enhanced ct image	non-contrast-enhanced ct images for segmentation	0.5034
+synthesis-based data augmentation including image	including image synthesis-based data augmentation	0.5033
+topera	0.5032
+speeded up robust features	surf	"speeded up robust features	0.5031
+automatic exposure	0.5027
+reverse video search	0.5027
+photographic plate	photographic plates	0.5026
+light scanning photomacrography	lsp	0.5026
+micro-object visualization	0.5025
+cut optimization	0.5025
+acb	0.5024
+numerical homogenisation	0.5024
+resampling	0.5024
+dimensional information	0.5024
+thermal imaging	0.5023
+stereoscopic film	stereoscopic films	0.5023
+integral photography plate	integral photography plates	0.5023
+spatial domain fusion	0.5023
+maximal scale ridge	0.5022
+equipotential surface	0.5022
+multi-dimensional data	0.5018
+traffic light	traffic lights	0.5018
+resulting matrix	resulting matrices	0.5018
+dynamic random dot stereogram	dynamic random dot stereograms	0.5017
+learning architecture multilayered hierarchical	multilayered hierarchical learning architecture	0.5016
+black-and-white	0.5016
+optical motion capture system	optical motion capture systems	0.5015
+perception research	0.5015
+support vector machine	svm	support vector machines	0.5013
+fixation point	fixation points	0.5013
+focal impulse	focal impulses	0.5013
+called alexnet convolutional neural net	convolutional neural net called alexnet	0.5013
+mathematical coordinate-based representation	0.5012
+detection experiment	detection experiments	0.5012
+3-d rendering	0.5012
+medical imaging modality	medical imaging modalities	0.5009
+x-ray image	x-ray images	0.5009
+building extraction	0.5007
+data cube	0.5007
+reference beam	reference beams	0.5006
+foveated rendering solution	0.5006
+color space	color spaces	0.5006
+maximum likelihood estimation sample and consensus	mlesac	0.5004
+optical character recognition application	optical character recognition applications	0.5004
+content-based visual information retrieval	0.5003
+object recognition neurobiological model	neurobiological models of object recognition	0.5002
+auto-stereoscopic display	auto-stereoscopic displays	0.5000
